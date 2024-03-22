@@ -3,15 +3,14 @@
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
   
- <img src="https://komarev.com/ghpvc/?username=gulsumbaltaci&&style=plastics&&color=yellow" align="right"/> </p> 
+ <img src="https://komarev.com/ghpvc/?username=gulsumbaltaci&&style=plastics&&color=ff69b4" align="right"/> </p> 
 
 <!-- Coder Uncle Pic
 <div id="header" align="right">
 <!-- img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/> -->
 
 
-<img src="https://github.com/gulsumbaltaci/gulsumbaltaci/assets/118837073/803c594f-4480-4f75-8f3e-9cba9c7b0105)&&style=plastics&&color=yellow" align="right"/> </p>
-
+<img src="https://github.com/gulsumbaltaci/gulsumbaltaci/assets/118837073/803c594f-4480-4f75-8f3e-9cba9c7b0105)&&style=plastics&&color=ff69b4" align="right"/> </p>
 
 
 ### </path></svg></a> About Me ✅ </h2>

@@ -37,9 +37,9 @@
 
   <a href="https://www.linkedin.com/in/gulsumbaltaci/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
- <a href = "mailto:gulsummbaltaci.55@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gulsummbaltaci.55@gmail.com" target="_blank">
+  <img src="gmail_icon.png" alt="Gmail'e E-posta Gönder" height="40"></a>
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/gulsumbaltaci)
 
 </div>
 
@@ -84,15 +84,5 @@ jobs:
   
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gulsumbaltaci&theme=dark&background=000000"/> 
  
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/gulsumbaltaci)
+ 
 
-
- <div id="gmailKutusu" style="background-color:#f0f0f0; padding:10px; border:1px solid #ccc; text-align:center; cursor:pointer;">
-    Gmail'e E-posta Gönder
-</div>
-
-<script>
-    document.getElementById("gmailKutusu").addEventListener("click", function() {
-        window.open("https://mail.google.com/mail/?view=cm&fs=1&to=gulsummbaltaci.55@gmail.com", "_blank");
-    });
-</script>

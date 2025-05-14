@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/gulsumbaltaci/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gulsummbaltaci.55@gmail.com" target="_blank">
-  <img src="gmail_icon.png" target="_blank">
+  <img src="[gmail_icon.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0J3R6Uwnqkbf2ixL1Qb_oavnvO5d_CR6Cmw&s)" target="_blank">
  </a>
  
 

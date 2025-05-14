@@ -33,12 +33,14 @@
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
-<div align="center">
+<div align="center"> 
+
   <a href="https://www.linkedin.com/in/gulsumbaltaci/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
-  <a href = "mailto:gulsummbaltaci.55@gmail.com"></a>
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank"></a>
-</div>
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
+  </a>
+ <a href = "mailto:gulsummbaltaci.55@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
+  </a>
 
 </div>
 

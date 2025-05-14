@@ -38,8 +38,9 @@
   <a href="https://www.linkedin.com/in/gulsumbaltaci/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gulsummbaltaci.55@gmail.com" target="_blank">
-  <img src="gmail_icon.png" alt="Gmail'e E-posta Gönder" height="40"></a>
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/gulsumbaltaci)
+  <img src="gmail_icon.png" target="_blank">
+ </a>
+ 
 
 </div>
 
@@ -83,6 +84,7 @@ jobs:
 <p align="center">
   
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gulsumbaltaci&theme=dark&background=000000"/> 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/gulsumbaltaci)
  
  
 

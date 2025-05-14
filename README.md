@@ -36,7 +36,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gulsumbaltaci/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
-  <a href="mailto:gulsummbaltaci.55@gmail.com"></a>
+  <a href = "mailto:gulsummbaltaci.55@gmail.com"></a>
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank"></a>
 </div>
 

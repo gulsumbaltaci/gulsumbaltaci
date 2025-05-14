@@ -84,4 +84,5 @@ jobs:
 <p align="center">
   
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gulsumbaltaci&theme=dark&background=000000"/> 
+ 
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/gulsumbaltaci)
